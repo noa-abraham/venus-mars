@@ -1,0 +1,92 @@
+cambios
+
+
+venus&mars (junto)-ok
+en lugar de TIENDA-Lecturas-ok
+sacar palabra Scroll y poner flecha. 
+sacar facebook, poner patron-ok
+reemplazo de textos -ok
+
+cambiar la tipo de LA PERSONA por la de detrás de la magia-ok 
+sacar el subtitulo AYELÉN ROMANO-ok
+marcos: cambiarle el color, que sean distinto al de los titulos-ok
+colores cruzados (la sombra d ela estrella el mismo color que los marcos)-ok
+y detrás d ela magia igual (que ahora sería mi espacio personal, que cambie de color con el mouse).
+
+
+sacar los minititulos (astro vj, luna en geminis) - ok
+sacar los botones (leer articulo, conseguirlos, ect)- ok
+sacar subrayados - OK
+
+MIS LIBROS -ok
+
+sacarle marco -ok
+imagen más chica -ok
+
+TIENDA ASTROLÓGICA
+ahora es LECTURAS -ok
+
+pequeño texo
+carrusel
+link a FAQ
+
+REDES
+
+se va todo.
+PERO QUEDA LLEME EN TWITTER-ok
+LEEME EN IG (CRUZADO)-ok
+
+
+13/11-cambios a partir de mi propuesta
+
+-portada cambiar: las 2 imágenes una al lado de otra: afro izq y marte a la derecha
+-barra de navegación: que no pise la portada
+-achicar venus and mars
+-sacar fondo de gif de estrellas
+-cambiar a "Bienvenidos" (sin x)
+-ESTRELLITAS: una de cada lado de los titulos de secciones, saturnos gusta.Poner en linea uno abajo de otro: luna, estrella, saturno.
+-Correr textos de imagenes de presentación, que no s episen con la imagen.
+-Tipografía y tamaños:
+*Bienvenidos...bajar tamaño a todo
+-REDES: no poner imágenes, sino el simbolo y que se ilumine, o usar los planetas de escritura o nerda.
+
+
+
+
+
+
+
+
+*CUERDA PLANETARIA
+acceso por pregunta de contenido
+3 preguntas y sus 3 respuestas.
+
+
+No se si ya hiciste la migración a WordPress de todo tu sitio o seguís evaluando ideas, te cuento que tambien podes instalar WordPress en un subdominio, solo para usarlo de backOffice para gestionar los post del Blog y a través de la API podés consultar su contenido, de esa manera mantenes todo tu sitio y frontend actual sin modificar nada y solo agregas la sección del Blog que lee los post creados en WordPress por medio de la API y tu sitio mantiene todo su formato y sigue siendo un sitio PHP nativo y Bootstrap.
+
+OPCIONES:
+
+WORDPRESS COMO SUBDOMINIO
+TENDRIA QUE COTIZARLE EL FRONTEND
+
+
+-le hago un logueo, accede con /loguin.
+Pone su usuario y contraseña
+tiene que tener un formulario para postear la entrada
+
+crear un form de autentificación
+crear form con 3 campos para que suba enterada
+
+**WTTJ**
+
+JUEVES 10-
+
+-CAMBIAR FONDO
+-COLORES TIPO
+-SACAR NEWSLETTER
+-DOMINIO
+-CARRUSEL
+-CATEGORIAS DE PRODU
+-CAMBIAR FORMA DE MOSTRAR PRODUCTOS
+
+

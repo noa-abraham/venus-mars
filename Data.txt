@@ -1,0 +1,85 @@
+nueva paleta: 
+
+//lila tomado de imagen de marte
+ #ab87e0;
+//tomado de instagram
+#504983;
+//armado por mi: oscuro, titulo
+#5f2d83;
+
+//ta bueno
+#621957
+
+
+Pagina mejoras_faltantes:
+
+ARREGLAR:
+
+-MENÚ A LA DERECHA, cambiarlo a la izq
+-ESPACIADO ENTRE SUPER TITULOS
+-la flecha de subir queda afuera en dispos chicos
+-los iconos y flecha de scrol de portada, demasiado juntos en dispos celus.
+-AYELÉN ROMANO está muy chico (solucionado, le puse la misma clase que al resto). 
+
+AGREGAR:
+
+*estrellas.siiii!!!!!
+*EFECTO EN TITULO PRINCIPAL
+
+
+
+
+Títulos Responsive ok:
+
+-Sección principal:
+
+*Navbar 
+*Logo
+*Titulo de la página: estan en vw porque sigue el ancho del dispositivo, asi siempre ocupa lo mismo, esto está bien que sea así.
+
+*Iconos
+*Flecha scroll
+*Footer
+*Titulos "Bruja Militante"...Sección sobre mi. 
+
+-Titulos de Secciones están mal:
+
+.heading-section h2 {
+  font-size: 8vw;
+  font-weight: 900;
+  line-height: 1.0;
+  font-family: "Lora";
+  text-align: left;
+
+Etiquetas de txt que están OK.
+
+Titulos "Bruja Militante"...Sección sobre mi. 
+.portfolio-entry .one-half.half-text h2 {
+  font-size: 5rem;
+
+Los txt del MENU son etiquetas <a>
+
+.ftco-navbar-light .navbar-nav > .nav-item > .nav-link
+font-size: 12px;
+
+Los titulos de las partes de Sobre mí ("Bruja Militante"), etiquetas <a>
+
+Txt general: <p> font-size: 16px;
+
+titulos de servicios astrologicos y subtti de prensa y difusión:
+.ftco-intro h2 {
+  font-size: 60px;
+} //se ven muy grandes.
+
+
+titulos dentro del footer:
+
+.ftco-footer .ftco-footer-widget h2 {
+  font-weight: normal;
+  color: #fff;
+  margin-bottom: 40px;
+  font-size: 13px;
+  font-weight: 900;
+  text-transform: uppercase;
+  font-family: "Poppins", Arial, sans-serif;
+  letter-spacing: 3px;
